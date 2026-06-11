@@ -1,0 +1,48 @@
+mutation CreateSeedData @transaction {
+  userProfile_insertMany(data: [
+    {
+      id: "550e8400-e29b-41d4-a716-446655440001",
+      username: "alice_fin",
+      email: "alice@example.com",
+      baseCurrency: "USD"
+    },
+    {
+      id: "550e8400-e29b-41d4-a716-446655440002",
+      username: "bob_invests",
+      email: "bob@example.com",
+      baseCurrency: "EUR"
+    }
+  ])
+  account_insertMany(data: [
+    {
+      id: "660e8400-e29b-41d4-a716-446655440001",
+      name: "Main Checking",
+      type: "Checking",
+      currentBalance: 5000.0,
+      user: {id: "550e8400-e29b-41d4-a716-446655440001"}
+    },
+    {
+      id: "660e8400-e29b-41d4-a716-446655440002",
+      name: "Investment Portfolio",
+      type: "Investment",
+      currentBalance: 15000.0,
+      user: {id: "550e8400-e29b-41d4-a716-446655440002"}
+    }
+  ])
+  transaction_insertMany(data: [
+    {
+      amount: 1200.0,
+      date: "2023-10-01",
+      category: "Salary",
+      type: "Income",
+      account: {id: "660e8400-e29b-41d4-a716-446655440001"}
+    },
+    {
+      amount: 50.0,
+      date: "2023-10-05",
+      category: "Groceries",
+      type: "Expense",
+      account: {id: "660e8400-e29b-41d4-a716-446655440001"}
+    }
+  ])
+}

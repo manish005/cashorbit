@@ -1,0 +1,30 @@
+mutation CreateDebt($name: String!, $totalAmount: Float!, $monthlyPayment: Float!, $dueDate: Date!, $accountId: UUID!) @auth(level: USER) {
+  debt_insert(data: {
+    name: $name,
+    totalAmount: $totalAmount,
+    monthlyPayment: $monthlyPayment,
+    dueDate: $dueDate,
+    accountId: $accountId
+  })
+}
+
+mutation UpdateAccountBalance($id: UUID!, $newBalance: Float!) @auth(level: USER) {
+  account_update(id: $id, data: { currentBalance: $newBalance })
+}
+
+mutation DeleteTransaction($id: UUID!) @auth(level: USER) {
+  transaction_delete(id: $id)
+}
+
+query ListUserAccounts @auth(level: USER) {
+  accounts(where: { user: { id: { eq_expr: "auth.uid" } } }) {
+    name
+    type
+    currentBalance
+    transactions_on_account {
+      amount
+      category
+      date
+    }
+  }
+}

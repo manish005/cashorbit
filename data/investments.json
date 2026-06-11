@@ -1,0 +1,86 @@
+[
+  {
+    "id": "inv_1",
+    "name": "Mutual Funds SIP",
+    "amount": 59.88,
+    "type": "Bonds",
+    "date": "2026-01-05"
+  },
+  {
+    "id": "inv_2",
+    "name": "Equity Portfolio",
+    "amount": 119.76,
+    "type": "Stock",
+    "date": "2026-01-05"
+  },
+  {
+    "id": "inv_3",
+    "name": "Mutual Funds SIP",
+    "amount": 59.88,
+    "type": "Bonds",
+    "date": "2026-02-05"
+  },
+  {
+    "id": "inv_4",
+    "name": "Equity Portfolio",
+    "amount": 119.76,
+    "type": "Stock",
+    "date": "2026-02-05"
+  },
+  {
+    "id": "inv_5",
+    "name": "Mutual Funds SIP",
+    "amount": 59.88,
+    "type": "Bonds",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "inv_6",
+    "name": "Equity Portfolio",
+    "amount": 119.76,
+    "type": "Stock",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "inv_7",
+    "name": "Mutual Funds SIP",
+    "amount": 59.88,
+    "type": "Bonds",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "inv_8",
+    "name": "Equity Portfolio",
+    "amount": 119.76,
+    "type": "Stock",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "inv_9",
+    "name": "Mutual Funds SIP",
+    "amount": 59.88,
+    "type": "Bonds",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "inv_10",
+    "name": "Equity Portfolio",
+    "amount": 119.76,
+    "type": "Stock",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "inv_11",
+    "name": "Mutual Funds SIP",
+    "amount": 59.88,
+    "type": "Bonds",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "inv_12",
+    "name": "Equity Portfolio",
+    "amount": 119.76,
+    "type": "Stock",
+    "date": "2026-06-05"
+  }
+]

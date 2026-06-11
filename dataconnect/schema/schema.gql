@@ -1,0 +1,49 @@
+type UserProfile @table {
+  username: String!
+  email: String!
+  baseCurrency: String!
+  monthlyBudgetLimit: Float
+  notificationPreferences: String
+}
+
+type Account @table {
+  name: String!
+  type: String! # Checking, Credit, Investment
+  currentBalance: Float!
+  providerName: String
+  interestRate: Float
+  user: UserProfile!
+}
+
+type Transaction @table {
+  amount: Float!
+  date: Date!
+  category: String!
+  type: String! # Income, Expense
+  account: Account!
+}
+
+type PortfolioItem @table {
+  tickerSymbol: String!
+  quantity: Float!
+  purchasePrice: Float!
+  currentMarketPrice: Float
+  account: Account!
+}
+
+type Debt @table {
+  name: String!
+  totalAmount: Float!
+  monthlyPayment: Float!
+  dueDate: Date!
+  interestRate: Float
+  remainingTenureMonths: Int
+  account: Account!
+}
+
+type Salary @table {
+  amount: Float!
+  sourceName: String!
+  payDate: Date!
+  user: UserProfile!
+}

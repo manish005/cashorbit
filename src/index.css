@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-sans-dynamic);
+  --font-display: var(--font-display-dynamic);
+
+  --color-brand-bg: var(--brand-bg);
+  --color-brand-surface: var(--brand-surface);
+  --color-brand-card: var(--brand-card);
+  --color-brand-border: var(--brand-border);
+  --color-brand-muted: var(--brand-muted);
+  
+  --color-white: var(--color-white-dynamic);
+  --color-black: var(--color-black-dynamic);
+
+  --color-accent-blue: #4f8cff;
+  --color-accent-green: #22c55e;
+  --color-accent-purple: #7c3aed;
+  --color-accent-orange: #f97316;
+}
+
+:root {
+  /* Light Mode Defaults */
+  --font-sans-dynamic: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display-dynamic: "Outfit", ui-sans-serif, system-ui, sans-serif;
+
+  --brand-bg: #F8FAFC;
+  --brand-surface: #FFFFFF;
+  --brand-card: #FFFFFF;
+  --brand-border: #E2E8F0;
+  --brand-muted: #64748B;
+  
+  --color-white-dynamic: #0F172A; /* Inverses text-white to black */
+  --color-black-dynamic: #FFFFFF; /* Inverses text-black to white */
+}
+
+.dark {
+  /* Dark Mode Defaults */
+  --font-sans-dynamic: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display-dynamic: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+
+  --brand-bg: #090909;
+  --brand-surface: #141414;
+  --brand-card: #1c1c1c;
+  --brand-border: #2a2a2a;
+  --brand-muted: #b0b0b0;
+  
+  --color-white-dynamic: #ffffff;
+  --color-black-dynamic: #000000;
+}
+
+body {
+  @apply bg-brand-bg text-white antialiased selection:bg-accent-blue/30;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Hide scrollbar for sleek look */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--brand-border);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent-blue);
+}
+
+.glass-card {
+  @apply bg-brand-card/60 backdrop-blur-xl border border-white/10 shadow-[0_8px_32px_0_rgba(0,0,0,0.05)];
+}
+
+.dark .glass-card {
+  @apply shadow-[0_8px_32px_0_rgba(0,0,0,0.36)];
+}
+
+.premium-gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-accent-blue to-accent-purple;
+}

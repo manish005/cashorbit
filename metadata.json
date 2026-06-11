@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Dashboard",
+  "description": "A modern personal finance management app with data visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
