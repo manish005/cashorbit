@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/manish005/cashorbit/blob/main/src/data/Screenshot%202026-06-12%20034252.png" />
 </div>
 # 💸 CashOrbit - Personal Finance & Budget Tracker
 
