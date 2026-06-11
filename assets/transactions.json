@@ -1,0 +1,898 @@
+[
+  {
+    "id": "tx_1",
+    "amount": 1317.37,
+    "date": "2026-01-01T09:00:00",
+    "description": "Monthly Salary Credit",
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": "tx_2",
+    "amount": 269.46,
+    "date": "2026-01-01T10:30:00",
+    "description": "Apartment Rent Payment",
+    "category": "Housing",
+    "type": "expense"
+  },
+  {
+    "id": "tx_3",
+    "amount": 359.28,
+    "date": "2026-01-02T09:15:00",
+    "description": "Emergency Fund Savings Transfer",
+    "category": "Emergency Fund",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_4",
+    "amount": 119.76,
+    "date": "2026-01-02T10:45:00",
+    "description": "Yearly Travel Savings Transfer",
+    "category": "Travel",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_5",
+    "amount": 59.88,
+    "date": "2026-01-05T11:00:00",
+    "description": "Investment: Mutual Fund SIP",
+    "category": "Investment",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_6",
+    "amount": 119.76,
+    "date": "2026-01-05T14:30:00",
+    "description": "Investment: Equity Portfolio",
+    "category": "Investment",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_7",
+    "amount": 119.76,
+    "date": "2026-01-05T16:00:00",
+    "description": "Annual WiFi Subscription (10K PA)",
+    "category": "Utilities",
+    "type": "expense"
+  },
+  {
+    "id": "tx_8",
+    "amount": 29.94,
+    "date": "2026-01-10T15:15:00",
+    "description": "Electricity & Gas Bill Payment",
+    "category": "Utilities",
+    "type": "expense"
+  },
+  {
+    "id": "tx_9",
+    "amount": 29.94,
+    "date": "2026-01-03T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_10",
+    "amount": 14.97,
+    "date": "2026-01-04T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_11",
+    "amount": 14.97,
+    "date": "2026-01-04T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_12",
+    "amount": 29.94,
+    "date": "2026-01-10T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_13",
+    "amount": 14.97,
+    "date": "2026-01-11T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_14",
+    "amount": 14.97,
+    "date": "2026-01-11T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_15",
+    "amount": 29.94,
+    "date": "2026-01-17T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_16",
+    "amount": 14.97,
+    "date": "2026-01-18T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_17",
+    "amount": 14.97,
+    "date": "2026-01-18T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_18",
+    "amount": 29.94,
+    "date": "2026-01-24T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_19",
+    "amount": 14.97,
+    "date": "2026-01-25T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_20",
+    "amount": 14.97,
+    "date": "2026-01-25T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_21",
+    "amount": 29.94,
+    "date": "2026-01-31T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_22",
+    "amount": 1317.37,
+    "date": "2026-02-01T09:00:00",
+    "description": "Monthly Salary Credit",
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": "tx_23",
+    "amount": 269.46,
+    "date": "2026-02-01T10:30:00",
+    "description": "Apartment Rent Payment",
+    "category": "Housing",
+    "type": "expense"
+  },
+  {
+    "id": "tx_24",
+    "amount": 359.28,
+    "date": "2026-02-02T09:15:00",
+    "description": "Emergency Fund Savings Transfer",
+    "category": "Emergency Fund",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_25",
+    "amount": 119.76,
+    "date": "2026-02-02T10:45:00",
+    "description": "Yearly Travel Savings Transfer",
+    "category": "Travel",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_26",
+    "amount": 59.88,
+    "date": "2026-02-05T11:00:00",
+    "description": "Investment: Mutual Fund SIP",
+    "category": "Investment",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_27",
+    "amount": 119.76,
+    "date": "2026-02-05T14:30:00",
+    "description": "Investment: Equity Portfolio",
+    "category": "Investment",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_28",
+    "amount": 29.94,
+    "date": "2026-02-10T15:15:00",
+    "description": "Electricity & Gas Bill Payment",
+    "category": "Utilities",
+    "type": "expense"
+  },
+  {
+    "id": "tx_29",
+    "amount": 14.97,
+    "date": "2026-02-01T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_30",
+    "amount": 14.97,
+    "date": "2026-02-01T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_31",
+    "amount": 29.94,
+    "date": "2026-02-07T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_32",
+    "amount": 14.97,
+    "date": "2026-02-08T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_33",
+    "amount": 14.97,
+    "date": "2026-02-08T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_34",
+    "amount": 29.94,
+    "date": "2026-02-14T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_35",
+    "amount": 14.97,
+    "date": "2026-02-15T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_36",
+    "amount": 14.97,
+    "date": "2026-02-15T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_37",
+    "amount": 29.94,
+    "date": "2026-02-21T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_38",
+    "amount": 14.97,
+    "date": "2026-02-22T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_39",
+    "amount": 14.97,
+    "date": "2026-02-22T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_40",
+    "amount": 29.94,
+    "date": "2026-02-28T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_41",
+    "amount": 1317.37,
+    "date": "2026-03-01T09:00:00",
+    "description": "Monthly Salary Credit",
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": "tx_42",
+    "amount": 269.46,
+    "date": "2026-03-01T10:30:00",
+    "description": "Apartment Rent Payment",
+    "category": "Housing",
+    "type": "expense"
+  },
+  {
+    "id": "tx_43",
+    "amount": 359.28,
+    "date": "2026-03-02T09:15:00",
+    "description": "Emergency Fund Savings Transfer",
+    "category": "Emergency Fund",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_44",
+    "amount": 119.76,
+    "date": "2026-03-02T10:45:00",
+    "description": "Yearly Travel Savings Transfer",
+    "category": "Travel",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_45",
+    "amount": 59.88,
+    "date": "2026-03-05T11:00:00",
+    "description": "Investment: Mutual Fund SIP",
+    "category": "Investment",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_46",
+    "amount": 119.76,
+    "date": "2026-03-05T14:30:00",
+    "description": "Investment: Equity Portfolio",
+    "category": "Investment",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_47",
+    "amount": 29.94,
+    "date": "2026-03-10T15:15:00",
+    "description": "Electricity & Gas Bill Payment",
+    "category": "Utilities",
+    "type": "expense"
+  },
+  {
+    "id": "tx_48",
+    "amount": 14.97,
+    "date": "2026-03-01T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_49",
+    "amount": 14.97,
+    "date": "2026-03-01T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_50",
+    "amount": 29.94,
+    "date": "2026-03-07T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_51",
+    "amount": 14.97,
+    "date": "2026-03-08T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_52",
+    "amount": 14.97,
+    "date": "2026-03-08T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_53",
+    "amount": 29.94,
+    "date": "2026-03-14T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_54",
+    "amount": 14.97,
+    "date": "2026-03-15T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_55",
+    "amount": 14.97,
+    "date": "2026-03-15T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_56",
+    "amount": 29.94,
+    "date": "2026-03-21T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_57",
+    "amount": 14.97,
+    "date": "2026-03-22T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_58",
+    "amount": 14.97,
+    "date": "2026-03-22T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_59",
+    "amount": 29.94,
+    "date": "2026-03-28T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_60",
+    "amount": 14.97,
+    "date": "2026-03-29T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_61",
+    "amount": 14.97,
+    "date": "2026-03-29T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_62",
+    "amount": 1317.37,
+    "date": "2026-04-01T09:00:00",
+    "description": "Monthly Salary Credit",
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": "tx_63",
+    "amount": 269.46,
+    "date": "2026-04-01T10:30:00",
+    "description": "Apartment Rent Payment",
+    "category": "Housing",
+    "type": "expense"
+  },
+  {
+    "id": "tx_64",
+    "amount": 359.28,
+    "date": "2026-04-02T09:15:00",
+    "description": "Emergency Fund Savings Transfer",
+    "category": "Emergency Fund",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_65",
+    "amount": 119.76,
+    "date": "2026-04-02T10:45:00",
+    "description": "Yearly Travel Savings Transfer",
+    "category": "Travel",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_66",
+    "amount": 59.88,
+    "date": "2026-04-05T11:00:00",
+    "description": "Investment: Mutual Fund SIP",
+    "category": "Investment",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_67",
+    "amount": 119.76,
+    "date": "2026-04-05T14:30:00",
+    "description": "Investment: Equity Portfolio",
+    "category": "Investment",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_68",
+    "amount": 29.94,
+    "date": "2026-04-10T15:15:00",
+    "description": "Electricity & Gas Bill Payment",
+    "category": "Utilities",
+    "type": "expense"
+  },
+  {
+    "id": "tx_69",
+    "amount": 29.94,
+    "date": "2026-04-04T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_70",
+    "amount": 14.97,
+    "date": "2026-04-05T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_71",
+    "amount": 14.97,
+    "date": "2026-04-05T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_72",
+    "amount": 29.94,
+    "date": "2026-04-11T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_73",
+    "amount": 14.97,
+    "date": "2026-04-12T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_74",
+    "amount": 14.97,
+    "date": "2026-04-12T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_75",
+    "amount": 29.94,
+    "date": "2026-04-18T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_76",
+    "amount": 14.97,
+    "date": "2026-04-19T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_77",
+    "amount": 14.97,
+    "date": "2026-04-19T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_78",
+    "amount": 29.94,
+    "date": "2026-04-25T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_79",
+    "amount": 14.97,
+    "date": "2026-04-26T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_80",
+    "amount": 14.97,
+    "date": "2026-04-26T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_81",
+    "amount": 1317.37,
+    "date": "2026-05-01T09:00:00",
+    "description": "Monthly Salary Credit",
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": "tx_82",
+    "amount": 269.46,
+    "date": "2026-05-01T10:30:00",
+    "description": "Apartment Rent Payment",
+    "category": "Housing",
+    "type": "expense"
+  },
+  {
+    "id": "tx_83",
+    "amount": 359.28,
+    "date": "2026-05-02T09:15:00",
+    "description": "Emergency Fund Savings Transfer",
+    "category": "Emergency Fund",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_84",
+    "amount": 119.76,
+    "date": "2026-05-02T10:45:00",
+    "description": "Yearly Travel Savings Transfer",
+    "category": "Travel",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_85",
+    "amount": 59.88,
+    "date": "2026-05-05T11:00:00",
+    "description": "Investment: Mutual Fund SIP",
+    "category": "Investment",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_86",
+    "amount": 119.76,
+    "date": "2026-05-05T14:30:00",
+    "description": "Investment: Equity Portfolio",
+    "category": "Investment",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_87",
+    "amount": 29.94,
+    "date": "2026-05-10T15:15:00",
+    "description": "Electricity & Gas Bill Payment",
+    "category": "Utilities",
+    "type": "expense"
+  },
+  {
+    "id": "tx_88",
+    "amount": 29.94,
+    "date": "2026-05-02T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_89",
+    "amount": 14.97,
+    "date": "2026-05-03T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_90",
+    "amount": 14.97,
+    "date": "2026-05-03T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_91",
+    "amount": 29.94,
+    "date": "2026-05-09T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_92",
+    "amount": 14.97,
+    "date": "2026-05-10T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_93",
+    "amount": 14.97,
+    "date": "2026-05-10T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_94",
+    "amount": 29.94,
+    "date": "2026-05-16T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_95",
+    "amount": 14.97,
+    "date": "2026-05-17T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_96",
+    "amount": 14.97,
+    "date": "2026-05-17T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_97",
+    "amount": 29.94,
+    "date": "2026-05-23T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_98",
+    "amount": 14.97,
+    "date": "2026-05-24T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_99",
+    "amount": 14.97,
+    "date": "2026-05-24T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_100",
+    "amount": 29.94,
+    "date": "2026-05-30T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_101",
+    "amount": 14.97,
+    "date": "2026-05-31T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_102",
+    "amount": 14.97,
+    "date": "2026-05-31T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": "tx_103",
+    "amount": 1317.37,
+    "date": "2026-06-01T09:00:00",
+    "description": "Monthly Salary Credit",
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": "tx_104",
+    "amount": 269.46,
+    "date": "2026-06-01T10:30:00",
+    "description": "Apartment Rent Payment",
+    "category": "Housing",
+    "type": "expense"
+  },
+  {
+    "id": "tx_105",
+    "amount": 359.28,
+    "date": "2026-06-02T09:15:00",
+    "description": "Emergency Fund Savings Transfer",
+    "category": "Emergency Fund",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_106",
+    "amount": 119.76,
+    "date": "2026-06-02T10:45:00",
+    "description": "Yearly Travel Savings Transfer",
+    "category": "Travel",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_107",
+    "amount": 59.88,
+    "date": "2026-06-05T11:00:00",
+    "description": "Investment: Mutual Fund SIP",
+    "category": "Investment",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_108",
+    "amount": 119.76,
+    "date": "2026-06-05T14:30:00",
+    "description": "Investment: Equity Portfolio",
+    "category": "Investment",
+    "type": "transfer"
+  },
+  {
+    "id": "tx_109",
+    "amount": 29.94,
+    "date": "2026-06-10T15:15:00",
+    "description": "Electricity & Gas Bill Payment",
+    "category": "Utilities",
+    "type": "expense"
+  },
+  {
+    "id": "tx_110",
+    "amount": 29.94,
+    "date": "2026-06-06T11:30:00",
+    "description": "Weekly Groceries",
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "tx_111",
+    "amount": 14.97,
+    "date": "2026-06-07T18:45:00",
+    "description": "Movies & Swiggy/Instamart Delivery",
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": "tx_112",
+    "amount": 14.97,
+    "date": "2026-06-07T12:15:00",
+    "description": "Petrol & Vegetables Bill",
+    "category": "Transport",
+    "type": "expense"
+  }
+]

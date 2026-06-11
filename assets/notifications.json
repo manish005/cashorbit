@@ -1,0 +1,18 @@
+[
+  {
+    "id": "n1",
+    "title": "Budget Alert",
+    "message": "You have reached 80% of your Food budget for this month.",
+    "type": "warning",
+    "time": "2 hours ago",
+    "read": false
+  },
+  {
+    "id": "n2",
+    "title": "Salary Received",
+    "message": "Your ₹110,000 salary was added to Main Checking.",
+    "type": "success",
+    "time": "Yesterday",
+    "read": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b1",
+    "category": "Housing",
+    "limit": 269.46
+  },
+  {
+    "id": "b2",
+    "category": "Food",
+    "limit": 179.64
+  },
+  {
+    "id": "b3",
+    "category": "Utilities",
+    "limit": 59.88
+  },
+  {
+    "id": "b4",
+    "category": "Transport",
+    "limit": 59.88
+  },
+  {
+    "id": "b5",
+    "category": "Entertainment",
+    "limit": 59.88
+  },
+  {
+    "id": "b6",
+    "category": "Travel",
+    "limit": 119.76
+  }
+]
